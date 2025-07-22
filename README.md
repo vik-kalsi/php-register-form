@@ -3,7 +3,7 @@
 
 ### Git clone this repo to your location
 ```
-git clone https://github.com/vik-kalsi/php-login_docker.git
+git clone https://github.com/vik-kalsi/php-register-form.git
 ```
 
 
